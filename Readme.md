@@ -46,8 +46,8 @@ The goal is to help telecom companies reduce churn by identifying high-risk cust
 ---
 
 ### There Are Two Files Of The models:
-1- Telecom Customer Churn Prediction Using ML    ----> Handeled By SMOTE.
-2- Telecom_Customer_Churn_Prediction_Using_ML2   ----> Handeled By OverSampling.
+- 1- Telecom Customer Churn Prediction Using ML    ----> Handeled By SMOTE.
+- 2- Telecom_Customer_Churn_Prediction_Using_ML2   ----> Handeled By OverSampling.
 
 ---
 
